@@ -44,8 +44,8 @@
 </tr>
 </table>
   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://fb.com/navindyasewmini31@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="navindyasewmini31@gmail.com" height="30" width="40" /></a>
 </p>
 
