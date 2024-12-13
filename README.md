@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Navindya Induruwage</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
